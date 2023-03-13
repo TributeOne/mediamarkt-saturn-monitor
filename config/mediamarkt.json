@@ -1,0 +1,12 @@
+{
+  "companyName": "MediaMarkt",
+  "topLevelDomain": ".de",
+  "companyLogo": "https://cdn.discordapp.com/attachments/926533178188005386/1046216910645239868/mediamarkt.jpg",
+  "webhooks": {
+    "webhookUrl": "https://discord.com/api/webhooks/XY",
+    "errorWebhookUrl": "https://discord.com/api/webhooks/XY"
+  },
+  "products": {
+    "productImageUrl": "https://cdn.discordapp.com/attachments/926533178188005386/1046201443146813491/PS5.webp"
+  }
+}
