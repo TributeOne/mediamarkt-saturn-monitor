@@ -83,4 +83,3 @@ yarn start
 
 Damit das Script bei einem Absturz automatisch wieder gestartet wird, empfehle ich, das Script von PM2 zu verwalten.
 https://pm2.keymetrics.io/docs/usage/quick-start/
-# mediamarkt-saturn-monitor
